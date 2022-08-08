@@ -2,6 +2,7 @@ Olá! Aqui quem fala é o Guilherme 🤟
 
 
 - 🌱 Atualmente, estudo Java
+- 🧑‍🎓 Cursando 3º semestre de Análise e Desenvolvimento de Sistemas
 - 👯 Estou em busca de novas oportunidades como: Estágio
 - 😄 Pronouns: Ele/Dele
 
