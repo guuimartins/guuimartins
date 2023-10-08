@@ -2,7 +2,7 @@ Olá! Aqui quem fala é o Guilherme 🤟
 
 
 - 🧑‍🎓 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas
-- 👯 Trabalhando com Infra/Devops
+- 👯 Analista DevOps
 - 😄 Pronouns: Ele/Dele
 
 ##
