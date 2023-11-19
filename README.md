@@ -15,6 +15,9 @@ Olá! Aqui quem fala é o Guilherme 🤟
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+    
 </div>
   
   ##
@@ -23,5 +26,3 @@ Olá! Aqui quem fala é o Guilherme 🤟
     <a href="https://www.linkedin.com/in/guilherme-martins-chavenco-bb4056165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:g.martins882@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-
-  <i class="devicon-docker-plain-wordmark colored"></i>
