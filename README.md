@@ -15,7 +15,7 @@ Olá! Aqui quem fala é o Guilherme 🤟
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
           
           
     
