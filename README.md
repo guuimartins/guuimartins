@@ -12,6 +12,7 @@ Olá! Aqui quem fala é o Guilherme 🤟
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guuimartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuimartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
   
   <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -->
@@ -21,9 +22,6 @@ Olá! Aqui quem fala é o Guilherme 🤟
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-  
-          
-          
     
 </div>
   
