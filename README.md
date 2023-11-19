@@ -14,8 +14,14 @@ Olá! Aqui quem fala é o Guilherme 🤟
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<!--   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -->
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  
           
           
     
