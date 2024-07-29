@@ -23,6 +23,8 @@ Olá! Aqui quem fala é o Guilherme 🤟
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
   <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+  <img align="center" alt="Gui-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
+
     
 </div>
   
